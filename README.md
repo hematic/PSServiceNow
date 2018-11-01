@@ -1,4 +1,4 @@
-# PSWorkFront
+# PSServiceNow
 PowerShell Functions for the ServiceNow API
 
 ![alt text](https://github.com/hematic/Storage/raw/master/servicenow.jpg)
